@@ -17,6 +17,7 @@ Debian GNU/Linux 10 (buster) x86_64 and Windows. The goal of the project was to 
 * New scene - lose scene
 * Fixed bug where there is always possibility to go beyond the maximum - min gets > = max
 * Different core game UI design
+* Robot images assets
 
 # Screenshots
 ![Main Menu](Images/Menu.png)
